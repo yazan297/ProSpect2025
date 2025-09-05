@@ -17,4 +17,5 @@ This is part of the ProFormalize framework for capturing and digitalizing social
 4 Run the project
 5 You should be able to see the "ProSpect" plugin on the top ribbon.
 
-
+## Funding Acknowledgment
+This work is supported by the European Union Horizon 2020 research project PROBONO under grant agreement no. 101037075.
