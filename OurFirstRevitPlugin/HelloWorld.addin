@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>OurFirstRevitPlugin.dll</Assembly>
+		<AddInId>E1661EF8-CC39-4CF2-B6EE-B700A2CEDBF5</AddInId>
+		<FullClassName>OurFirstRevitPlugin.HelloWorld</FullClassName>
+		<Text>HelloWorld</Text>
+		<VendorId>Yazan</VendorId>
+		<VendorDescription>yazan@ece.au.dk</VendorDescription>
+	</AddIn>
+
+	<AddIn Type="Application">
+		<Name>ProSpect</Name>
+		<Assembly>OurFirstRevitPlugin.dll</Assembly>
+		<AddInId>5BE00F54-87BB-4D24-9007-D88E38382D89</AddInId>
+		<FullClassName>OurFirstRevitPlugin.ProSpect</FullClassName>
+		<Text>HelloWorld</Text>
+		<VendorId>Yazan</VendorId>
+		<VendorDescription>yazan@ece.au.dk</VendorDescription>
+	</AddIn>
+
+	<AddIn Type="Command">
+		<Name>Product</Name>
+		<Assembly>OurFirstRevitPlugin.dll</Assembly>
+		<AddInId>638447B2-BBA7-4F67-A481-225E7DEB41C7</AddInId>
+		<FullClassName>OurFirstRevitPlugin.Product</FullClassName>
+		<Text>Product</Text>
+		<VendorId>Yazan</VendorId>
+		<VendorDescription>yazan@ece.au.dk</VendorDescription>
+	</AddIn>
+
+	<AddIn Type="Command">
+		<Name>About</Name>
+		<Assembly>OurFirstRevitPlugin.dll</Assembly>
+		<AddInId>E6D57219-85DD-4F45-8D2B-1BC41B9670EE</AddInId>
+		<FullClassName>OurFirstRevitPlugin.About</FullClassName>
+		<Text>About</Text>
+		<VendorId>Yazan</VendorId>
+		<VendorDescription>yazan@ece.au.dk</VendorDescription>
+	</AddIn>
+
+	<AddIn Type="Command">
+		<Name>Export</Name>
+		<Assembly>OurFirstRevitPlugin.dll</Assembly>
+		<AddInId>6FAD3B2E-3278-4CA6-9B7A-0BCDE48E5559</AddInId>
+		<FullClassName>OurFirstRevitPlugin.Export</FullClassName>
+		<Text>Export</Text>
+		<VendorId>Yazan</VendorId>
+		<VendorDescription>yazan@ece.au.dk</VendorDescription>
+	</AddIn>
+
+	
+</RevitAddIns>
